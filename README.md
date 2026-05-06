@@ -1,5 +1,5 @@
 # fuentes-cs-sociales
-Guía de fuentes de datos abiertos para politólogos, sociólogos e investigadores sociales de Argentina.
+
 # 🗂️ Datos Abiertos para Ciencias Sociales — Argentina
 
 Una guía práctica de fuentes de datos para politólogos, sociólogos e investigadores. Si necesitás datos electorales, censales, del mercado de trabajo, acá encontrás dónde buscarlos y cómo acceder.
