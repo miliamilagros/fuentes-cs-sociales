@@ -18,6 +18,16 @@ Una guía práctica de fuentes de datos para politólogos, sociólogos e investi
 
 ## 🗳️ Datos electorales
 
+---
+
+### DINE — Dirección Nacional Electoral (datos.gob.ar)
+**→ https://datos.gob.ar/dataset?tags=elecciones**
+
+Resultados oficiales del escrutinio provisorio a nivel de mesa, disponibles para múltiples elecciones (2011–2025). Tiene API compatible con OpenAPI v3.
+
+**Útil para:** análisis a nivel de mesa o circuito, datos muy desagregados territorialmente.
+
+**API:** https://datos.gob.ar/dataset/dine_2/archivo/dine_2.1
 ### DataCP
 **→ https://www.datacp.ar/**
 
@@ -44,17 +54,6 @@ resultados <- read_csv("resultados_legislativas_2025.csv")
 import pandas as pd
 df = pd.read_csv("resultados_legislativas_2025.csv")
 ```
-
----
-
-### DINE — Dirección Nacional Electoral (datos.gob.ar)
-**→ https://datos.gob.ar/dataset?tags=elecciones**
-
-Resultados oficiales del escrutinio provisorio a nivel de mesa, disponibles para múltiples elecciones (2011–2025). Tiene API compatible con OpenAPI v3.
-
-**Útil para:** análisis a nivel de mesa o circuito, datos muy desagregados territorialmente.
-
-**API:** https://datos.gob.ar/dataset/dine_2/archivo/dine_2.1
 
 ---
 
