@@ -132,4 +132,4 @@ geo_censo <- geo |> left_join(censo_wide, by = c("LINK" = "id_geo"))
 
 ---
 
-*Compilado por Milagros Milia· Última actualización: mayo 2026· Contribuciones bienvenidas vía Issues o PR*
+*Compilado por Milagros Milia · Última actualización: mayo 2026 · Contribuciones bienvenidas vía Issues o PR*
